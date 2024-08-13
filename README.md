@@ -1,6 +1,8 @@
 # Jogo Pedra, Papel e Tesoura
 
-Bem-vindo ao jogo de Pedra, Papel e Tesoura! 🎉 Este projeto é uma atualização do código que já estava disponível no meu GitHub. Adicionei algumas melhorias e funcionalidades novas para tornar o jogo ainda mais divertido e interativo.
+Bem-vindo ao jogo de Pedra, Papel e Tesoura! 🎉 Este projeto é uma atualização do código que já estava disponível no meu GitHub. Adicionei algumas melhorias e funcionalidades novas para tornar o jogo ainda mais divertido e interativo. 
+
+Este código faz parte do **Desafio - Programa de Trainees**. A proposta do desafio é aprimorar habilidades de programação e desenvolver soluções criativas para problemas de codificação.
 
 ## Sobre o Jogo
 
